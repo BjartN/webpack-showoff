@@ -1,2 +1,2 @@
-# webpack-showoff
-Various webpack features on display
+# Simple Webpack 4 configurations
+Various webpack 4 configurations on display
